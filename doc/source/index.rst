@@ -1,20 +1,20 @@
 .. os-disk-config documentation master file, created by
-   rhallisey and bnemec
+   sphinx-quickstart on Wed Mar  4 08:16:40 2015.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 Welcome to os-disk-config's documentation!
-========================================================
+==========================================
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
 
-   readme
-   installation
-   usage
-   contributing
+   Introduction
+   Setup
+   Building an Image
+   Deployment
+
 
 Indices and tables
 ==================
